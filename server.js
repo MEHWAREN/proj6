@@ -55,5 +55,5 @@ app.listen(port, function () {
     }, 1500);
   }
 });
-'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'
+
 module.exports = app; //for testing
